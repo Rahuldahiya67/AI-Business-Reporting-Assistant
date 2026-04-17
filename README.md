@@ -30,6 +30,3 @@ This project is an AI-powered business reporting assistant built in Python. It l
 
 ## Usage
 The assistant processes business data to generate automated reports and insights.
-
-## License
-MIT
